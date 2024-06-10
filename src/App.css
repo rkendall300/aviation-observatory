@@ -124,11 +124,15 @@ main {
   margin-bottom: 15px;
 }
 
+.bold {
+  font-weight: 700;
+}
+
 #related-section {
   display: flex;
   align-items: top;
   justify-content: space-between;
-  margin: 0 100px;
+  margin: 0 200px;
 }
 
 .related-tags {
